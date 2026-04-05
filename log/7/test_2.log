@@ -1,0 +1,398 @@
+DGS10.csv
+Gold_Future_Auction.csv
+LBMA_Gold_Spot.csv
+LINK REIT Dividend Yield.csv
+link_reit_sehk823_full.csv
+SOFR.csv
+SPGlobal_PriceChart-Gold_full.csv
+SPGold_foward_12months.csv
+Treasury 3 months full.csv
+Treasury 5 years full.csv
+Treasury_5_years_full.csv
+~$link_reit_sehk_823.xlsx
+new registration.csv
+stamp_duty.csv
+1797
+date is: 2023-12-28 00:00:00
+omega_t is  -0.04881108268460747
+43.85 0.0384 0.056757 -0.004539298117676497 0.019846339173278618 0.11494252873563227 -0.04881108268460747
+44.29356835811346
+44.29356835811346
+92.58789063 92.88464643607415
+call option value is  0.0
+P/L is  0.2967558060741453
+call option value is  0.2595673965476799
+P/L is  0.5563232026218259
+call option value is  0.7150046759827674
+P/L is  1.0117604820569142
+call option value is  1.2149406800785927
+P/L is  1.5116964861527435
+call option value is  1.714876684174418
+P/L is  2.0116324902485587
+call option value is  2.2148126882702437
+P/L is  2.511568494344388
+call option value is  2.714748692366068
+P/L is  3.0115044984402175
+call option value is  3.2146846964618936
+P/L is  3.5114405025360327
+call option value is  3.714620700557719
+P/L is  4.011376506631862
+call option value is  4.214556704653544
+P/L is  4.5113125107276915
+--------------------------------------Initial Placement---------------------------------------
+current price of gold is: 2065.61, predicted price of gold is: 2060.37193434768,profit is: -5.238065652320074
+current price of tb is: 92.58789063, current price of tb option is: 4.214556704653544,predicted price of tb is: 92.88464643607415,profit is: 4.5113125107276915
+current price of reit is: 43.85, current price of reit option is: 5.48532939017268,predicted price of reit is: 44.29356835811346,profit is: 5.92889774828614
+value_ratio_tb_to_total is: 0.8672024428007727, risk_ratio_tb_to_gold is: 0.252586092153878
+value_ratio_gold_to_total is: -1.0069050455806432, risk_ratio_gold_to_total is: 0.6811136030346443
+value_ratio_reit_to_total is: 1.1397026027798702, risk_ratio_reit_to_gold is: 0.2155977696051357
+average_risk_gold is: 0.006079799674886701, average_risk_tb is: 0.9917457116294794, average_risk_reit is: 0.8465159804305996
+value_ratio_tb_to_total is: 0.8672024428007727, risk_ratio_tb_to_gold is: 0.252586092153878
+value_ratio_gold_to_total is: -1.0069050455806432, risk_ratio_gold_to_total is: 0.6811136030346443
+value_ratio_reit_to_total is: 1.1397026027798702, risk_ratio_reit_to_gold is: 0.2155977696051357
+collateral_ratio_tranche_tb is: 0.4
+collateral_ratio_tranche_gold is: 0.8
+collateral_ratio_tranche_reit is: 0.3
+Total plot size is: 150000000.0, plot size of gold is: 80000000.0, plot size of TB is: 40000000.0, plot size of REIT is: 30000000.0
+collateral ratio is: 1.5
+------GTBCPS Price-----------
+S_gtbcps_0 is: 1.0,T is: 0.0027397260273972603,t is: 0.0,change_of_collaterals is: 0.0,stdev_gtbcps is: 0.008648663321581146
+1.1114649721266028e-05
+--------------------------------------Regular payout---------------------------------------
+predicted price of GTBCPS is: 1.0000111147114892, actual price is: 1.0
+predicted amount of GTBCPS is: 99998888.54120463, actual amount is: 100000000
+plot sizes of gold is: 80000000.0, plot sizes of tb is: 40000000.0 , plot sizes of reit is: 30000000.0, plot sizes of total is: 150000000.0.
+predicted stdevs of gold is: 0.008006030117506141, predicted stdevs of tb is: 0.0015356728409580498, predicted stdevs of reit is: 0.019846339173278618, predicted stdevs of GTBCPS is: 0.008648663321581146.
+payout of tranche of gold is: 296.3890120997657, payout of tranche of Treausry Bill Option is: 57.96051792173195, payout of tranche of Collar of REIT is: 30.284370614104944
+Collateral size of tranche of gold is: 80000296.3890121, collateral size of tranche of Treausry Bill Option is: 40000057.96051792, collateral size of tranche of Collar of REIT is: 30000030.284370612
+Collateral ratio of tranche of gold is: 0.8000029638901209, collateral ratio of tranche of Treausry Bill Option is: 0.4000005796051792, collateral ratio of tranche of Collar of REIT is: 0.3000003028437061
+date is: 2023-12-28 00:00:00
+omega_t is  -0.07950752874128467
+43.85 0.0384 0.056757 -0.004539298117676497 0.0199185532955147 0.11494252873563227 -0.07950752874128467
+44.28432729886073
+44.28432729886073
+92.58789063 92.88464643607415
+call option value is  0.0
+P/L is  0.2967558060741453
+call option value is  0.2595673965476799
+P/L is  0.5563232026218259
+call option value is  0.7150046759827674
+P/L is  1.0117604820569142
+call option value is  1.2149406800785927
+P/L is  1.5116964861527435
+call option value is  1.714876684174418
+P/L is  2.0116324902485587
+call option value is  2.2148126882702437
+P/L is  2.511568494344388
+call option value is  2.714748692366068
+P/L is  3.0115044984402175
+call option value is  3.2146846964618936
+P/L is  3.5114405025360327
+call option value is  3.714620700557719
+P/L is  4.011376506631862
+call option value is  4.214556704653544
+P/L is  4.5113125107276915
+--------------------------------------Daily Update Collateral Ratio- Day 1.-------------------------------------------
+current price of gold is: 2065.61, predicted price of gold is: 2060.37193434768
+current price of tb is: 92.58789063, current price of tb option is: 4.214556704653544, predicted price of tb is: 92.88464643607415
+current price of reit is: 43.85, current price of reit option is: 5.478692950867995, predicted price of reit is: 44.28432729886073
+value_ratio_gold_to_total is: -1.009987635249729, risk_ratio_to_gold is: 0.6788735719933533, risk_ratio_to_gold_before is: 0.6811136030346443
+value_ratio_tb_to_total is: 0.86985733990643, risk_ratio_tb_to_gold is: 0.2550247033805839, risk_ratio_tb_to_gold_before is: 0.252586092153878
+value_ratio_reit_to_total is: 1.140130295343299, risk_ratio_reit_to_gold is: 0.21800362067647747, risk_ratio_reit_to_gold_before is: 0.2155977696051357
+delta_gold is: 1.0, delta_tb is: 1.0, delta_reit is: 0.9998654830243009
+delta_gold_risk is: 0.998667531428425, delta_tb_risk is: 1.0019468611714446, delta_reit_risk is: 1.0019791506133837
+collateral_ratio_tranche_gold is: 0.8010703649750703
+collateral_ratio_tranche_tb is: 0.3992233471718362
+collateral_ratio_tranche_reit is: 0.29936745442919804
+Total plot size is: 149995964.49072903, plot size of gold is: 80000000.0, plot size of TB is: 40000000.0, plot size of REIT is: 29995964.490729026
+collateral ratio is: 1.4999596449072903
+------GTBCPS Price-----------
+S_gtbcps_0 is: 1.0000111147114892,T is: 0.0027397260273972603,t is: 0.0,change_of_collaterals is: 0.0,stdev_gtbcps is: 0.008642853592138905
+-4.446014303564129e-05
+--------------------------------------Regular payout---------------------------------------
+predicted price of GTBCPS is: 0.9999666550626404, actual price is: 1.0000111147114892
+predicted amount of GTBCPS is: 100003334.60492815, actual amount is: 99998888.54120463
+plot sizes of gold is: 80000000.0, plot sizes of tb is: 40000000.0 , plot sizes of reit is: 29995964.490729026, plot sizes of total is: 149995964.49072903.
+predicted stdevs of gold is: 0.007965828383628937, predicted stdevs of tb is: 0.001541266811394237, predicted stdevs of reit is: 0.0199185532955147, predicted stdevs of GTBCPS is: 0.008642853592138905.
+--------------------------------------Create GTBCPS---------------------------------------
+total_value_of_collaterals is: 149994426.44764945, createdtionValue_gold is: 3556.6796623091213, createdValue_tb is: 1778.355897288217, createdValue_reit is: 1333.5898496811212
+plotValue_gold_after_creation is: 79995257.65826863, plotValue_tb_after_creation  is: 39997990.181469485, plotValue_reit_after_creation  is: 29994509.98250207,total_value_after_creation is: 149987757.82224017
+total_amount_gtncps_before_creation is: 99998888.54120463,creation_amount_gtbcps is: 4446.0637235194445,total_amount_gtbcps_new is: 100003334.60492815
+payout of tranche of gold is: -1185.6620690670466, payout of tranche of Treausry Bill Option is: -231.46263322847997, payout of tranche of Collar of REIT is: -120.91837727669558
+Collateral size of tranche of gold is: 79995257.65826863, collateral size of tranche of Treausry Bill Option is: 39997990.181469485, collateral size of tranche of Collar of REIT is: 29994509.98250207
+Collateral ratio of tranche of gold is: 0.7999881433793093, collateral ratio of tranche of Treausry Bill Option is: 0.3999976853736677, collateral ratio of tranche of Collar of REIT is: 0.2999584357235175
+date is: 2023-12-28 00:00:00
+omega_t is  -0.3450216667262298
+43.85 0.0384 0.056757 -0.004539298117676497 0.019949561688252904 0.11494252873563227 -0.3450216667262298
+44.204832153725796
+44.204832153725796
+92.58789063 92.88464643607415
+call option value is  0.0
+P/L is  0.2967558060741453
+call option value is  0.2595673965476799
+P/L is  0.5563232026218259
+call option value is  0.7150046759827674
+P/L is  1.0117604820569142
+call option value is  1.2149406800785927
+P/L is  1.5116964861527435
+call option value is  1.714876684174418
+P/L is  2.0116324902485587
+call option value is  2.2148126882702437
+P/L is  2.511568494344388
+call option value is  2.714748692366068
+P/L is  3.0115044984402175
+call option value is  3.2146846964618936
+P/L is  3.5114405025360327
+call option value is  3.714620700557719
+P/L is  4.011376506631862
+call option value is  4.214556704653544
+P/L is  4.5113125107276915
+--------------------------------------Daily Update Collateral Ratio- Day 2.-------------------------------------------
+current price of gold is: 2065.61, predicted price of gold is: 2060.37193434768
+current price of tb is: 92.58789063, current price of tb option is: 4.214556704653544, predicted price of tb is: 92.88464643607415
+current price of reit is: 43.85, current price of reit option is: 5.475843086582444, predicted price of reit is: 44.204832153725796
+value_ratio_gold_to_total is: -1.026282445344918, risk_ratio_to_gold is: 0.6785983908785551, risk_ratio_to_gold_before is: 0.6788735719933533
+value_ratio_tb_to_total is: 0.8838913336594098, risk_ratio_tb_to_gold is: 0.2549600478980739, risk_ratio_tb_to_gold_before is: 0.2550247033805839
+value_ratio_reit_to_total is: 1.142391111685508, risk_ratio_reit_to_gold is: 0.2186656096949812, risk_ratio_reit_to_gold_before is: 0.21800362067647747
+delta_gold is: 1.0, delta_tb is: 1.0, delta_reit is: 0.99994222704647
+delta_gold_risk is: 0.9998360918181162, delta_tb_risk is: 0.999948482701308, delta_reit_risk is: 1.0005435033256602
+collateral_ratio_tranche_gold is: 0.8001192894773378
+collateral_ratio_tranche_tb is: 0.4000182932355626
+collateral_ratio_tranche_reit is: 0.29977817580324007
+Total plot size is: 149986024.95080882, plot size of gold is: 79995257.65826863, plot size of TB is: 39997990.181469485, plot size of REIT is: 29992777.111070693
+collateral ratio is: 1.4998602495080882
+------GTBCPS Price-----------
+S_gtbcps_0 is: 0.9999666550626404,T is: 0.0027397260273972603,t is: 0.0,change_of_collaterals is: 0.0,stdev_gtbcps is: 0.008661270121190251
+3.3860212355539e-05
+--------------------------------------Regular payout---------------------------------------
+predicted price of GTBCPS is: 1.0000005147191735, actual price is: 0.9999666550626404
+predicted amount of GTBCPS is: 99999948.52810915, actual amount is: 100003334.60492815
+plot sizes of gold is: 79995257.65826863, plot sizes of tb is: 39997990.181469485 , plot sizes of reit is: 29992777.111070693, plot sizes of total is: 149986024.95080882.
+predicted stdevs of gold is: 0.007985253619125408, predicted stdevs of tb is: 0.0015486852792756093, predicted stdevs of reit is: 0.019949561688252904, predicted stdevs of GTBCPS is: 0.008661270121190251.
+--------------------------------------Create GTBCPS---------------------------------------
+total_value_of_collaterals is: 149987196.68019468, createdtionValue_gold is: -2708.7316228570276, createdValue_tb is: -1354.36911138114, createdValue_reit is: -1015.5835781166304
+plotValue_gold_after_creation is: 79998833.2560364, plotValue_tb_after_creation  is: 39999514.0877878, plotValue_reit_after_creation  is: 29993928.020682845,total_value_after_creation is: 149992275.36450705
+total_amount_gtncps_before_creation is: 100003334.60492815,creation_amount_gtbcps is: -3386.0768190026283,total_amount_gtbcps_new is: 99999948.52810915
+payout of tranche of gold is: 866.866144916582, payout of tranche of Treausry Bill Option is: 169.53720693326395, payout of tranche of Collar of REIT is: 135.326034035079
+Collateral size of tranche of gold is: 79998833.2560364, collateral size of tranche of Treausry Bill Option is: 39999514.0877878, collateral size of tranche of Collar of REIT is: 29993928.020682845
+Collateral ratio of tranche of gold is: 0.7999612452441354, collateral ratio of tranche of Treausry Bill Option is: 0.3999815971867642, collateral ratio of tranche of Collar of REIT is: 0.2999291243710473
+date is: 2023-12-28 00:00:00
+omega_t is  -0.5649172987122314
+43.85 0.0384 0.056757 -0.004539298117676497 0.020046027857304208 0.11494252873563227 -0.5649172987122314
+44.138311140764245
+44.138311140764245
+92.58789063 92.88464643607415
+call option value is  0.0
+P/L is  0.2967558060741453
+call option value is  0.2595673965476799
+P/L is  0.5563232026218259
+call option value is  0.7150046759827674
+P/L is  1.0117604820569142
+call option value is  1.2149406800785927
+P/L is  1.5116964861527435
+call option value is  1.714876684174418
+P/L is  2.0116324902485587
+call option value is  2.2148126882702437
+P/L is  2.511568494344388
+call option value is  2.714748692366068
+P/L is  3.0115044984402175
+call option value is  3.2146846964618936
+P/L is  3.5114405025360327
+call option value is  3.714620700557719
+P/L is  4.011376506631862
+call option value is  4.214556704653544
+P/L is  4.5113125107276915
+--------------------------------------Daily Update Collateral Ratio- Day 3.-------------------------------------------
+current price of gold is: 2065.61, predicted price of gold is: 2060.37193434768
+current price of tb is: 92.58789063, current price of tb option is: 4.214556704653544, predicted price of tb is: 92.88464643607415
+current price of reit is: 43.85, current price of reit option is: 5.4669764402048315, predicted price of reit is: 44.138311140764245
+value_ratio_gold_to_total is: -1.041668445442596, risk_ratio_to_gold is: 0.6776448891338168, risk_ratio_to_gold_before is: 0.6785983908785551
+value_ratio_tb_to_total is: 0.8971426098628624, risk_ratio_tb_to_gold is: 0.25559221313244734, risk_ratio_tb_to_gold_before is: 0.2549600478980739
+value_ratio_reit_to_total is: 1.1445258355797334, risk_ratio_reit_to_gold is: 0.22010695620420304, risk_ratio_reit_to_gold_before is: 0.2186656096949812
+delta_gold is: 1.0, delta_tb is: 1.0, delta_reit is: 0.9998202433892098
+delta_gold_risk is: 0.9994319655315294, delta_tb_risk is: 1.0005037333542466, delta_reit_risk is: 1.0011827251854448
+collateral_ratio_tranche_gold is: 0.8004159090695991
+collateral_ratio_tranche_tb is: 0.3997802145583233
+collateral_ratio_tranche_reit is: 0.29952095914622223
+Total plot size is: 149986883.75766176, plot size of gold is: 79998833.2560364, plot size of TB is: 39999514.0877878, plot size of REIT is: 29988536.413837563
+collateral ratio is: 1.4998688375766176
+------GTBCPS Price-----------
+S_gtbcps_0 is: 1.0000005147191735,T is: 0.0027397260273972603,t is: 0.0,change_of_collaterals is: 0.0,stdev_gtbcps is: 0.008704075368528793
+-1.6133984733821435e-05
+--------------------------------------Regular payout---------------------------------------
+predicted price of GTBCPS is: 0.9999843808562874, actual price is: 1.0000005147191735
+predicted amount of GTBCPS is: 100001561.9387674, actual amount is: 99999948.52810915
+plot sizes of gold is: 79998833.2560364, plot sizes of tb is: 39999514.0877878 , plot sizes of reit is: 29988536.413837563, plot sizes of total is: 149986883.75766176.
+predicted stdevs of gold is: 0.00802653917603396, predicted stdevs of tb is: 0.001555827274869354, predicted stdevs of reit is: 0.020046027857304208, predicted stdevs of GTBCPS is: 0.008704075368528793.
+--------------------------------------Create GTBCPS---------------------------------------
+total_value_of_collaterals is: 149986325.4868675, createdtionValue_gold is: 1290.6826004675763, createdValue_tb is: 645.3449866068606, createdValue_reit is: 483.8299775626295
+plotValue_gold_after_creation is: 79997112.29902318, plotValue_tb_after_creation  is: 39998784.6326418, plotValue_reit_after_creation  is: 29988008.69763787,total_value_after_creation is: 149983905.62930286
+total_amount_gtncps_before_creation is: 99999948.52810915,creation_amount_gtbcps is: 1613.4106582552195,total_amount_gtbcps_new is: 100001561.9387674
+payout of tranche of gold is: -430.2744127543272, payout of tranche of Treausry Bill Option is: -84.1101593909531, payout of tranche of Collar of REIT is: -43.88622213182562
+Collateral size of tranche of gold is: 79997112.29902318, collateral size of tranche of Treausry Bill Option is: 39998784.6326418, collateral size of tranche of Collar of REIT is: 29988008.69763787
+Collateral ratio of tranche of gold is: 0.7999840298162365, collateral ratio of tranche of Treausry Bill Option is: 0.3999942997762841, collateral ratio of tranche of Collar of REIT is: 0.2998849252761543
+date is: 2023-12-28 00:00:00
+omega_t is  0.16346896070054368
+43.85 0.0384 0.056757 -0.004539298117676497 0.020135737336284747 0.11494252873563227 0.16346896070054368
+44.35756153652224
+44.35756153652224
+92.58789063 92.88464643607415
+call option value is  0.0
+P/L is  0.2967558060741453
+call option value is  0.2595673965476799
+P/L is  0.5563232026218259
+call option value is  0.7150046759827674
+P/L is  1.0117604820569142
+call option value is  1.2149406800785927
+P/L is  1.5116964861527435
+call option value is  1.714876684174418
+P/L is  2.0116324902485587
+call option value is  2.2148126882702437
+P/L is  2.511568494344388
+call option value is  2.714748692366068
+P/L is  3.0115044984402175
+call option value is  3.2146846964618936
+P/L is  3.5114405025360327
+call option value is  3.714620700557719
+P/L is  4.011376506631862
+call option value is  4.214556704653544
+P/L is  4.5113125107276915
+--------------------------------------Daily Update Collateral Ratio- Day 4.-------------------------------------------
+current price of gold is: 2065.61, predicted price of gold is: 2060.37193434768
+current price of tb is: 92.58789063, current price of tb option is: 4.214556704653544, predicted price of tb is: 92.88464643607415
+current price of reit is: 43.85, current price of reit option is: 5.4587297386306375, predicted price of reit is: 44.35756153652224
+value_ratio_gold_to_total is: -0.9997189673587853, risk_ratio_to_gold is: 0.6820200437782823, risk_ratio_to_gold_before is: 0.6776448891338168
+value_ratio_tb_to_total is: 0.8610133938775361, risk_ratio_tb_to_gold is: 0.25123623879153084, risk_ratio_tb_to_gold_before is: 0.25559221313244734
+value_ratio_reit_to_total is: 1.1387055734812492, risk_ratio_reit_to_gold is: 0.21499632889102502, risk_ratio_reit_to_gold_before is: 0.22010695620420304
+delta_gold is: 1.0, delta_tb is: 1.0, delta_reit is: 0.9998327816875758
+delta_gold_risk is: 1.0026079146265123, delta_tb_risk is: 0.9965307411949862, delta_reit_risk is: 0.9958113284354371
+collateral_ratio_tranche_gold is: 0.7979031664778384
+collateral_ratio_tranche_tb is: 0.4013868145167628
+collateral_ratio_tranche_reit is: 0.30109597115762055
+Total plot size is: 149978891.08509547, plot size of gold is: 79997112.29902318, plot size of TB is: 39998784.6326418, plot size of REIT is: 29982994.15343049
+collateral ratio is: 1.4997889108509546
+------GTBCPS Price-----------
+S_gtbcps_0 is: 0.9999843808562874,T is: 0.0027397260273972603,t is: 0.0,change_of_collaterals is: 0.0,stdev_gtbcps is: 0.008733270962218398
+5.270065623027833e-06
+--------------------------------------Regular payout---------------------------------------
+predicted price of GTBCPS is: 0.9999896508534831, actual price is: 0.9999843808562874
+predicted amount of GTBCPS is: 100001034.92536229, actual amount is: 100001561.9387674
+plot sizes of gold is: 79997112.29902318, plot sizes of tb is: 39998784.6326418 , plot sizes of reit is: 29982994.15343049, plot sizes of total is: 149978891.08509547.
+predicted stdevs of gold is: 0.008059542869994418, predicted stdevs of tb is: 0.0015334576823754914, predicted stdevs of reit is: 0.020135737336284747, predicted stdevs of GTBCPS is: 0.008733270962218398.
+--------------------------------------Create GTBCPS---------------------------------------
+total_value_of_collaterals is: 149979073.60496765, createdtionValue_gold is: -421.59185335705484, createdValue_tb is: -210.79691478735356, createdValue_reit is: -158.01287455311822
+plotValue_gold_after_creation is: 79997668.80163616, plotValue_tb_after_creation  is: 39999021.89590838, plotValue_reit_after_creation  is: 29983173.309065815,total_value_after_creation is: 149979864.00661036
+total_amount_gtncps_before_creation is: 100001561.9387674,creation_amount_gtbcps is: -527.0134051144123,total_amount_gtbcps_new is: 100001034.92536229
+payout of tranche of gold is: 134.91075962951436, payout of tranche of Treausry Bill Option is: 26.466351789766602, payout of tranche of Collar of REIT is: 21.14276076888305
+Collateral size of tranche of gold is: 79997668.80163616, collateral size of tranche of Treausry Bill Option is: 39999021.89590838, collateral size of tranche of Collar of REIT is: 29983173.309065815
+Collateral ratio of tranche of gold is: 0.7999724720978281, collateral ratio of tranche of Treausry Bill Option is: 0.3999881109899359, collateral ratio of tranche of Collar of REIT is: 0.2998301529619126
+date is: 2023-12-28 00:00:00
+omega_t is  0.2269154473157155
+43.85 0.0384 0.056757 -0.004539298117676497 0.02022689712218253 0.11494252873563227 0.2269154473157155
+44.37707999977372
+44.37707999977372
+92.58789063 92.88464643607415
+call option value is  0.0
+P/L is  0.2967558060741453
+call option value is  0.2595673965476799
+P/L is  0.5563232026218259
+call option value is  0.7150046759827674
+P/L is  1.0117604820569142
+call option value is  1.2149406800785927
+P/L is  1.5116964861527435
+call option value is  1.714876684174418
+P/L is  2.0116324902485587
+call option value is  2.2148126882702437
+P/L is  2.511568494344388
+call option value is  2.714748692366068
+P/L is  3.0115044984402175
+call option value is  3.2146846964618936
+P/L is  3.5114405025360327
+call option value is  3.714620700557719
+P/L is  4.011376506631862
+call option value is  4.214556704653544
+P/L is  4.5113125107276915
+--------------------------------------Daily Update Collateral Ratio- Day 5.-------------------------------------------
+current price of gold is: 2065.61, predicted price of gold is: 2060.37193434768
+current price of tb is: 92.58789063, current price of tb option is: 4.214556704653544, predicted price of tb is: 92.88464643607415
+current price of reit is: 43.85, current price of reit option is: 5.450348635527604, predicted price of reit is: 44.37707999977372
+value_ratio_gold_to_total is: -0.9975984344482964, risk_ratio_to_gold is: 0.6820517826941792, risk_ratio_to_gold_before is: 0.6820200437782823
+value_ratio_tb_to_total is: 0.859187073383775, risk_ratio_tb_to_gold is: 0.2511041441265887, risk_ratio_tb_to_gold_before is: 0.25123623879153084
+value_ratio_reit_to_total is: 1.1384113610645215, risk_ratio_reit_to_gold is: 0.21506019320552774, risk_ratio_reit_to_gold_before is: 0.21499632889102502
+delta_gold is: 1.0, delta_tb is: 1.0, delta_reit is: 0.9998300280062484
+delta_gold_risk is: 1.0000188695229966, delta_tb_risk is: 0.999894428677138, delta_reit_risk is: 1.0000525633806328
+collateral_ratio_tranche_gold is: 0.7999573772837012
+collateral_ratio_tranche_tb is: 0.40003034272240207
+collateral_ratio_tranche_reit is: 0.29976343365356395
+Total plot size is: 149974767.706864, plot size of gold is: 79997668.80163616, plot size of TB is: 39999021.89590838, plot size of REIT is: 29978077.009319473
+collateral ratio is: 1.49974767706864
+------GTBCPS Price-----------
+S_gtbcps_0 is: 0.9999896508534831,T is: 0.0027397260273972603,t is: 0.0,change_of_collaterals is: 2.220446049250313e-16,stdev_gtbcps is: 0.008770439018648385
+6.466746478688519e-05
+--------------------------------------Regular payout---------------------------------------
+predicted price of GTBCPS is: 1.000054319739981, actual price is: 0.9999896508534831
+predicted amount of GTBCPS is: 99994568.3210493, actual amount is: 100001034.92536229
+plot sizes of gold is: 79997668.80163616, plot sizes of tb is: 39999021.89590838 , plot sizes of reit is: 29978077.009319473, plot sizes of total is: 149974767.70686403.
+predicted stdevs of gold is: 0.00809194851727167, predicted stdevs of tb is: 0.0015411391217632167, predicted stdevs of reit is: 0.02022689712218253, predicted stdevs of GTBCPS is: 0.008770439018648385.
+--------------------------------------Create GTBCPS---------------------------------------
+total_value_of_collaterals is: 149977005.6611001, createdtionValue_gold is: -5173.520780570114, createdValue_tb is: -2586.7399208166644, createdValue_reit is: -1938.6856308077465
+plotValue_gold_after_creation is: 80004498.06800924, plotValue_tb_after_creation  is: 40001932.48950545, plotValue_reit_after_creation  is: 29980274.049917605,total_value_after_creation is: 149986704.6074323
+total_amount_gtncps_before_creation is: 100001034.92536229,creation_amount_gtbcps is: -6466.6043129861355,total_amount_gtbcps_new is: 99994568.3210493
+payout of tranche of gold is: 1655.7455925265388, payout of tranche of Treausry Bill Option is: 323.85367625411914, payout of tranche of Collar of REIT is: 258.3549673218075
+Collateral size of tranche of gold is: 80004498.06800924, collateral size of tranche of Treausry Bill Option is: 40001932.48950545, collateral size of tranche of Collar of REIT is: 29980274.049917605
+Collateral ratio of tranche of gold is: 0.7999932454722867, collateral ratio of tranche of Treausry Bill Option is: 0.39999345749584625, collateral ratio of tranche of Collar of REIT is: 0.2997833536428679
+date is: 2023-12-28 00:00:00
+omega_t is  -0.05526268662704125
+43.85 0.0384 0.056757 -0.004539298117676497 0.020286153202829685 0.11494252873563227 -0.05526268662704125
+44.29123571845226
+44.29123571845226
+92.58789063 92.88464643607415
+call option value is  0.0
+P/L is  0.2967558060741453
+call option value is  0.2595673965476799
+P/L is  0.5563232026218259
+call option value is  0.7150046759827674
+P/L is  1.0117604820569142
+call option value is  1.2149406800785927
+P/L is  1.5116964861527435
+call option value is  1.714876684174418
+P/L is  2.0116324902485587
+call option value is  2.2148126882702437
+P/L is  2.511568494344388
+call option value is  2.714748692366068
+P/L is  3.0115044984402175
+call option value is  3.2146846964618936
+P/L is  3.5114405025360327
+call option value is  3.714620700557719
+P/L is  4.011376506631862
+call option value is  4.214556704653544
+P/L is  4.5113125107276915
+--------------------------------------Daily Update Collateral Ratio- Day 6.-------------------------------------------
+current price of gold is: 2065.61, predicted price of gold is: 2060.37193434768
+current price of tb is: 92.58789063, current price of tb option is: 4.214556704653544, predicted price of tb is: 92.88464643607415
+current price of reit is: 43.85, current price of reit option is: 5.444900130836459, predicted price of reit is: 44.29123571845226
+value_ratio_gold_to_total is: -1.015250457095645, risk_ratio_to_gold is: 0.6816884499033065, risk_ratio_to_gold_before is: 0.6820517826941792
+value_ratio_tb_to_total is: 0.8743899738234364, risk_ratio_tb_to_gold is: 0.251069131223603, risk_ratio_tb_to_gold_before is: 0.2511041441265887
+value_ratio_reit_to_total is: 1.1408604832722087, risk_ratio_reit_to_gold is: 0.21587665631591624, risk_ratio_reit_to_gold_before is: 0.21506019320552774
+delta_gold is: 1.0, delta_tb is: 1.0, delta_reit is: 0.9998894834450072
+delta_gold_risk is: 0.99978399428923, delta_tb_risk is: 0.9999720143977222, delta_reit_risk is: 1.0006719528093784
+collateral_ratio_tranche_gold is: 0.8001660859164091
+collateral_ratio_tranche_tb is: 0.4000046518669427
+collateral_ratio_tranche_reit is: 0.29954893986768866
+Total plot size is: 149983391.29082656, plot size of gold is: 80004498.06800924, plot size of TB is: 40001932.48950545, plot size of REIT is: 29976960.733311865
+collateral ratio is: 1.4998339129082654
+------GTBCPS Price-----------
+S_gtbcps_0 is: 1.000054319739981,T is: 0.0027397260273972603,t is: 0.0,change_of_collaterals is: 0.0,stdev_gtbcps is: 0.008791426168667092
+-5.3799261762737385e-05
+--------------------------------------Regular payout---------------------------------------
+predicted price of GTBCPS is: 1.0000005190030894, actual price is: 1.000054319739981
+predicted amount of GTBCPS is: 99999948.099718, actual amount is: 99994568.3210493
+plot sizes of gold is: 80004498.06800924, plot sizes of tb is: 40001932.48950545 , plot sizes of reit is: 29976960.733311865, plot sizes of total is: 149983391.29082656.
+predicted stdevs of gold is: 0.008106038072784646, predicted stdevs of tb is: 0.001548204846137714, predicted stdevs of reit is: 0.020286153202829685, predicted stdevs of GTBCPS is: 0.008791426168667092.
+--------------------------------------Create GTBCPS---------------------------------------
+total_value_of_collaterals is: 149981529.43085912, createdtionValue_gold is: 4303.989959051959, createdValue_tb is: 2152.0014500059146, createdValue_reit is: 1612.687105922873
+plotValue_gold_after_creation is: 79998759.15292959, plotValue_tb_after_creation  is: 39999499.8440237, plotValue_reit_after_creation  is: 29975201.755390864,total_value_after_creation is: 149973460.75234413
+total_amount_gtncps_before_creation is: 99994568.3210493,creation_amount_gtbcps is: 5379.778668701649,total_amount_gtbcps_new is: 99999948.099718
+payout of tranche of gold is: -1434.9251206108913, payout of tranche of Treausry Bill Option is: -280.64403175022767, payout of tranche of Collar of REIT is: -146.29081507743203
+Collateral size of tranche of gold is: 79998759.15292959, collateral size of tranche of Treausry Bill Option is: 39999499.8440237, collateral size of tranche of Collar of REIT is: 29975201.755390864
+Collateral ratio of tranche of gold is: 0.8000306314288862, collateral ratio of tranche of Treausry Bill Option is: 0.40001651845473696, collateral ratio of tranche of Collar of REIT is: 0.29976814442496785
